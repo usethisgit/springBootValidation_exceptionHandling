@@ -11,6 +11,8 @@ name: BeanValidation with CICD flow
 on:
   push:
     branches: [ "main" ]
+  workflow_dispatch:  # Allow manual trigger
+
   pull_request:
     branches: [ "main" ]
 
