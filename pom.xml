@@ -87,6 +87,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
+        <finalName>spring_bean_validation_ExceptionHandling_example</finalName>
 	</build>
 
 </project>
